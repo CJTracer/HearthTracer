@@ -1,5 +1,5 @@
 # HearthTracer
-a tool for gamer of HearthStone
+a tool for gamers of HearthStone
 
 (画饼)
 
