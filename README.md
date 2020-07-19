@@ -9,3 +9,4 @@ a tool for gamers of HearthStone
           创立18套以外的套牌用于快速更换。
           
 l:http://c.biancheng.net/view/2011.html
+l:https://blog.csdn.net/c406495762/article/details/78123502
